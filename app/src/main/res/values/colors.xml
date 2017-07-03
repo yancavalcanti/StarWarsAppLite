@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorText">#FFE5C0</color>
+    <color name="colorCorallo">#FF3C5C</color>
+    <color name="sunnyside">#FFA72B</color>
+    <color name="returnOfJedi">#17A694</color>
+    <color name="black">#0A0000</color>
+</resources>
